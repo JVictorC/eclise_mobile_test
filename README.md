@@ -1,4 +1,4 @@
-# pokedex_snapfi
+# toDo_Eclipse
 ## Como Rodar o Projeto
 
 ### `1- git clone git@github.com:JVictorC/test_practice_inicie.git`
