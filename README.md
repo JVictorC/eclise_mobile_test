@@ -1,7 +1,6 @@
 # toDo_Eclipse
 ## Como Rodar o Projeto
 
-### `1- git clone git@github.com:JVictorC/test_practice_inicie.git`
-### `2- cd pokedex_incie`
+### `2- cd eclipse_mobile_test`
 ### `3- Abra algum emulador IOS ou ANDROID`
 ### `3- sh run_app.sh`
